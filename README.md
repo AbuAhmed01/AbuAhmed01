@@ -1,4 +1,6 @@
-## Hi there 👋
+I am a Software engineering student with a passion for computers networking and personal projects.
+Currently working on developing an MP3 player that auto downloads songs
+
 
 <!--
 **AbuAhmed01/AbuAhmed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
